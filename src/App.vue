@@ -134,10 +134,10 @@ export default {
         },
       ],
       "header": {
-        "vessel": "MSCV God's Kennel",
+        "planet": "MSCV God's Kennel",
         "year": "5014u",
         "system": "Traveling",
-        "line": "Andrah-Sintara Starway",
+        "gate": "Andrah-Sintara Starway",
         "ring": "variable",
         "headerTitle": "Mirrorsmoke",
         "headerSubtitle": "Mercenary Company",
