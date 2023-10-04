@@ -95,7 +95,22 @@ export default {
       "missions": [
         {
           "slug": "001",
-          "name": "Bug-Hunt",
+          "name": "Silent Relay",
+          "status": "start"
+        },
+        {
+          "slug": "002",
+          "name": "Blink and you miss it",
+          "status": "start"
+        },
+        {
+          "slug": "003",
+          "name": "A Good Man's War",
+          "status": "start"
+        },
+        {
+          "slug": "004",
+          "name": "Wakey Wakey",
           "status": "start"
         },
       ],
