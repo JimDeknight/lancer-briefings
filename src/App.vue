@@ -140,12 +140,12 @@ export default {
           "mech": "Jollibee"
         },
         {
-          "callsign": "Badlands",
-          "alias": "Marlene Gatsby",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
+          "callsign": "Revenant",
+          "alias": "Koschei",
+          "code": "f2430fde-6751-43b3-8083-c553294a91ec//NDL-C-DARK-GLYPH//f2430fde-6751-43b3-8083-c553294a91ec",
           "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Mayfly"
+          "frame": "Chomolungma",
+          "mech": "Ethereal and Unquestionable"
         },
       ],
       "header": {
