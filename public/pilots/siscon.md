@@ -1,5 +1,3 @@
-testValue for description.
+Paolo Anno is a distant descendent of southeast asian survivors of the First Culling. Having escaped the sinking of the Philippines into the jungles of Laos, the Anno lineage lived in secrecy and managed to evade a worldwide nuclear power struggle: the Second Culling.
 
-## Trivia
-
-* Is not a nerd like the rest of y'all
+Born from a long, proud bloodline of refugees and Uma Musume otakus, Paolo takes full advantage of the modern universe, living a carefree, hedonistic lifestyle with many hours spent playing **Dace Bombat 528** and **Macrosoft Flying Simulation 7777**. Having an androngenous appearance and dainty figure, Paolo has been able to use this to his advantage to catfish unsuspecting men into teaching him the ins and outs of piloting mechs and printing mech parts. 
