@@ -95,8 +95,8 @@ export default {
       "missions": [
         {
           "slug": "001",
-          "name": "Silent Relay",
-          "status": "start"
+          "name": "A Good Man's War",
+          "status": "partial-success"
         },
         {
           "slug": "002",
@@ -105,8 +105,8 @@ export default {
         },
         {
           "slug": "003",
-          "name": "A Good Man's War",
-          "status": "partial-success"
+          "name": "Silent Relay",
+          "status": "start"
         },
         {
           "slug": "004",
