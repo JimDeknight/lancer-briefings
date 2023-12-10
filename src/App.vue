@@ -96,7 +96,7 @@ export default {
         {
           "slug": "001",
           "name": "A Good Man's War",
-          "status": "partial-success"
+          "status": "start"
         },
         {
           "slug": "002",
