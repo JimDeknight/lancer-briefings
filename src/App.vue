@@ -111,7 +111,7 @@ export default {
         {
           "slug": "004",
           "name": "Wakey Wakey",
-          "status": "start"
+          "status": "expired"
         },
       ],
       "pilots": [

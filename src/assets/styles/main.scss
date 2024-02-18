@@ -471,6 +471,10 @@ section .section-header {
   .failure {
     background-color: $mission-failure;
   }
+
+  .expired {
+    background-color: $mission-failure;
+  }
 }
 
 .mission.active {
