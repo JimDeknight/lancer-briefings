@@ -100,12 +100,12 @@ export default {
         },
         {
           "slug": "002",
-          "name": "Blink and you miss it",
-          "status": "start"
+          "name": "Silent Relay",
+          "status": "success"
         },
         {
           "slug": "003",
-          "name": "Silent Relay",
+          "name": "Blink and you miss it",
           "status": "start"
         },
         {
@@ -119,24 +119,24 @@ export default {
           "callsign": "Mojave",
           "alias": "Leamon 'Lemon' Mara Amoa",
           "code": "a2a03dc0-f77c-4a21-a326-474eba20066a//NDL-C-STOLEN-OCTOBER//a2a03dc0-f77c-4a21-a326-474eba20066a",
-          "corpro": "GMS",
-          "frame": "Sagarmatha",
-          "mech": "Nobunaga"
+          "corpro": "SSC",
+          "frame": "Orchis",
+          "mech": "Goose on the Loose"
         },
         {
           "callsign": "Supercell",
           "alias": "Odunita Latendresse",
           "code": "76d8668-1d4c-44ac-b2aa-9aa7cff55895//NDL-C-SIGMA-TELLURION//d76d8668-1d4c-44ac-b2aa-9aa7cff55895",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Onset"
+          "corpro": "SSC",
+          "frame": "Viceroy",
+          "mech": "Typhoon"
         },
         {
           "callsign": "Siscon",
           "alias": "Paolo",
           "code": "35769445-14f1-45d1-8c67-72770ec409ba//NDL-C-RHO-MUSE//35769445-14f1-45d1-8c67-72770ec409ba",
-          "corpro": "GMS",
-          "frame": "Chomolungma",
+          "corpro": "SSC",
+          "frame": "Comet",
           "mech": "Jollibee"
         },
         {
