@@ -143,9 +143,9 @@ export default {
           "callsign": "Revenant",
           "alias": "Koschei",
           "code": "f2430fde-6751-43b3-8083-c553294a91ec//NDL-C-DARK-GLYPH//f2430fde-6751-43b3-8083-c553294a91ec",
-          "corpro": "GMS",
-          "frame": "Chomolungma",
-          "mech": "Ethereal and Unquestionable"
+          "corpro": "Horus",
+          "frame": "Pegasus",
+          "mech": "Familiar Face"
         },
       ],
       "header": {
