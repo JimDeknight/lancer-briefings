@@ -95,23 +95,13 @@ export default {
       "missions": [
         {
           "slug": "001",
-          "name": "A Good Man's War",
-          "status": "partial-success"
-        },
-        {
-          "slug": "002",
-          "name": "Silent Relay",
-          "status": "success"
-        },
-        {
-          "slug": "003",
-          "name": "Blink and you miss it",
+          "name": "Dawnbreaker",
           "status": "start"
         },
         {
-          "slug": "004",
-          "name": "Wakey Wakey",
-          "status": "expired"
+          "slug": "002",
+          "name": "Exp14710n",
+          "status": "start"
         },
       ],
       "pilots": [
